@@ -1,0 +1,132 @@
+{
+  "data" : [
+    {
+      "id": "1",
+      "attributes": {
+        "name": "Paneer Butter Pizza",
+        "category": "Indian Gravy Pizza",
+        "description": "(Paneer butter gravy flavoured pizza)",
+        "pricetype": "variable",
+        "price": "",
+        "regular": "220",
+        "medium": "350",
+        "large": "500",
+        "isspicy": "FALSE",
+        "isveg": "TRUE"
+      },
+      "type": "mi"
+    },
+    {
+      "id": "2",
+      "attributes": {
+        "name": "Mushroom Manjurian",
+        "category": "Indian Gravy Pizza",
+        "description": "(Spicy mix, Onion, Capsicum, Onion, Mushroom)",
+        "pricetype": "variable",
+        "price": "",
+        "regular": "220",
+        "medium": "350",
+        "large": "500",
+        "isspicy": "FALSE",
+        "isveg": "TRUE"
+      },
+      "type": "mi"
+    },
+    {
+      "id": "3",
+      "attributes": {
+        "name": "Chilli Paneer",
+        "category": "Indian Gravy Pizza",
+        "description": "(Capsicum, onion, paneer, green chilli, corn flour & masalas)",
+        "pricetype": "variable",
+        "price": "",
+        "regular": "220",
+        "medium": "350",
+        "large": "500",
+        "isspicy": "TRUE",
+        "isveg": "TRUE"
+      },
+      "type": "mi"
+    },
+    {
+      "id": "4",
+      "attributes": {
+        "name": "Mushroom Pepper Fry",
+        "category": "Indian Gravy Pizza",
+        "description": "(Pizza topped with mushroom, fried with masalas and pepper)",
+        "pricetype": "variable",
+        "price": "",
+        "regular": "220",
+        "medium": "350",
+        "large": "500",
+        "isspicy": "FALSE",
+        "isveg": "TRUE"
+      },
+      "type": "mi"
+    },
+    {
+      "id": "5",
+      "attributes": {
+        "name": "Butter Chicken",
+        "category": "Indian Gravy Pizza",
+        "description": "(Butter chicken gravy flavored pizza)",
+        "pricetype": "variable",
+        "price": "",
+        "regular": "220",
+        "medium": "350",
+        "large": "500",
+        "isspicy": "FALSE",
+        "isveg": "FALSE"
+      },
+      "type": "mi"
+    },
+    {
+      "id": "6",
+      "attributes": {
+        "name": "",
+        "category": "",
+        "description": "",
+        "pricetype": "",
+        "price": "",
+        "regular": "220",
+        "medium": "350",
+        "large": "500",
+        "isspicy": "FALSE",
+        "isveg": "FALSE"
+      },
+      "type": "mi"
+    },
+    {
+      "id": "7",
+      "attributes": {
+        "name": "",
+        "category": "",
+        "description": "",
+        "pricetype": "",
+        "price": "",
+        "regular": "220",
+        "medium": "350",
+        "large": "500",
+        "isspicy": "TRUE",
+        "isveg": "FALSE"
+      },
+      "type": "mi"
+    },
+    {
+      "id": "8",
+      "attributes": {
+        "name": "",
+        "category": "",
+        "description": "",
+        "pricetype": "",
+        "price": "",
+        "regular": "220",
+        "medium": "350",
+        "large": "500",
+        "isspicy": "TRUE",
+        "isveg": "FALSE"
+      },
+      "type": "mi"
+    }
+  ]
+}

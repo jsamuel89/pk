@@ -1,0 +1,54 @@
+@import "materialize";
+
+
+html { 
+  background: url(images/bg.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.description{
+  font-size: 0.8em;
+}
+
+.card-title{
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+  font-size: 21px !important;
+  font-weight: 700 !important;
+  padding: 5px !important;
+  text-transform: uppercase;
+}
+
+.non-vegetarian{
+  color: #ef5350  !important;
+  font-weight: 700;
+}
+
+.vegetarian{
+  color: #43a047 !important;
+  font-weight: 700;
+}
+
+.logo{
+  height : 150px !important;
+  padding : 10px;
+}
+
+.nomargin {
+  margin-bottom : unset;
+}
+
+.opaque{
+  background-color: rgba(255, 255, 255, .9) !important;
+}
+
+.notopaque{
+  opacity : 1 !important
+}
+
+.logo-caption h4,h5{
+  font-weight: bold;
+}

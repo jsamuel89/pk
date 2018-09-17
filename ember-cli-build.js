@@ -1,11 +1,26 @@
+/* eslint-env node */
 'use strict';
 
 const EmberApp = require('ember-cli/lib/broccoli/ember-app');
+var nodeSass = require('node-sass'); // loads the version in your package.json
 
 module.exports = function(defaults) {
   let app = new EmberApp(defaults, {
     // Add options here
+    
+
+    sassOptions: {
+      includePaths: [
+        'bower_components/materialize/sass'
+      ]
+    }
+    , nodeSass: nodeSass
+    
   });
+
+  // if (app.env === 'development') {
+  //   app.fingerprint.enabled = false;
+  // }
 
   // Use `app.import` to add additional libraries to the generated
   // output files.
@@ -19,6 +34,9 @@ module.exports = function(defaults) {
   // modules that you would like to import into your application
   // please specify an object with the list of modules as keys
   // along with the exports of each module as its value.
+
+  app.import('bower_components/tabletop/src/tabletop.js');
+  app.import('vendor/shims.js');
 
   return app.toTree();
 };

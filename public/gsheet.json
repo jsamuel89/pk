@@ -1,0 +1,537 @@
+{
+"version": "1.0",
+"encoding": "UTF-8",
+"feed": {
+"xmlns": "http://www.w3.org/2005/Atom",
+"xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+"xmlns$gsx": "http://schemas.google.com/spreadsheets/2006/extended",
+"id": {
+"$t": "https://spreadsheets.google.com/feeds/list/1mj5kpIlpcfuZ-J_iUxnCmXtj5p5TdSZBk3UzArizr6s/od6/public/values"
+},
+"updated": {
+"$t": "2018-09-17T15:53:44.708Z"
+},
+"category": [
+{
+"scheme": "http://schemas.google.com/spreadsheets/2006",
+"term": "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+"title": {
+"type": "text",
+"$t": "Sheet1"
+},
+"link": [
+{
+"rel": "alternate",
+"type": "application/atom+xml",
+"href": "https://docs.google.com/spreadsheets/d/1mj5kpIlpcfuZ-J_iUxnCmXtj5p5TdSZBk3UzArizr6s/pubhtml"
+},
+{
+"rel": "http://schemas.google.com/g/2005#feed",
+"type": "application/atom+xml",
+"href": "https://spreadsheets.google.com/feeds/list/1mj5kpIlpcfuZ-J_iUxnCmXtj5p5TdSZBk3UzArizr6s/od6/public/values"
+},
+{
+"rel": "http://schemas.google.com/g/2005#post",
+"type": "application/atom+xml",
+"href": "https://spreadsheets.google.com/feeds/list/1mj5kpIlpcfuZ-J_iUxnCmXtj5p5TdSZBk3UzArizr6s/od6/public/values"
+},
+{
+"rel": "self",
+"type": "application/atom+xml",
+"href": "https://spreadsheets.google.com/feeds/list/1mj5kpIlpcfuZ-J_iUxnCmXtj5p5TdSZBk3UzArizr6s/od6/public/values?alt=json"
+}
+],
+"author": [
+{
+"name": {
+"$t": "pizzakaaran"
+},
+"email": {
+"$t": "pizzakaaran@gmail.com"
+}
+}
+],
+"openSearch$totalResults": {
+"$t": "8"
+},
+"openSearch$startIndex": {
+"$t": "1"
+},
+"entry": [
+{
+"id": {
+"$t": "https://spreadsheets.google.com/feeds/list/1mj5kpIlpcfuZ-J_iUxnCmXtj5p5TdSZBk3UzArizr6s/od6/public/values/cokwr"
+},
+"updated": {
+"$t": "2018-09-17T15:53:44.708Z"
+},
+"category": [
+{
+"scheme": "http://schemas.google.com/spreadsheets/2006",
+"term": "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+"title": {
+"type": "text",
+"$t": "Paneer Butter Pizza"
+},
+"content": {
+"type": "text",
+"$t": "category: Indian Gravy Pizza, description: (Paneer butter gravy flavoured pizza), pricetype: variable, regular: 220, medium: 350, large: 500, isspicy: FALSE, isveg: TRUE"
+},
+"link": [
+{
+"rel": "self",
+"type": "application/atom+xml",
+"href": "https://spreadsheets.google.com/feeds/list/1mj5kpIlpcfuZ-J_iUxnCmXtj5p5TdSZBk3UzArizr6s/od6/public/values/cokwr"
+}
+],
+"gsx$name": {
+"$t": "Paneer Butter Pizza"
+},
+"gsx$category": {
+"$t": "Indian Gravy Pizza"
+},
+"gsx$description": {
+"$t": "(Paneer butter gravy flavoured pizza)"
+},
+"gsx$pricetype": {
+"$t": "variable"
+},
+"gsx$price": {
+"$t": ""
+},
+"gsx$regular": {
+"$t": "220"
+},
+"gsx$medium": {
+"$t": "350"
+},
+"gsx$large": {
+"$t": "500"
+},
+"gsx$isspicy": {
+"$t": "FALSE"
+},
+"gsx$isveg": {
+"$t": "TRUE"
+}
+},
+{
+"id": {
+"$t": "https://spreadsheets.google.com/feeds/list/1mj5kpIlpcfuZ-J_iUxnCmXtj5p5TdSZBk3UzArizr6s/od6/public/values/cpzh4"
+},
+"updated": {
+"$t": "2018-09-17T15:53:44.708Z"
+},
+"category": [
+{
+"scheme": "http://schemas.google.com/spreadsheets/2006",
+"term": "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+"title": {
+"type": "text",
+"$t": "Mushroom Manjurian"
+},
+"content": {
+"type": "text",
+"$t": "category: Indian Gravy Pizza, description: (Spicy mix, Onion, Capsicum, Onion, Mushroom), pricetype: variable, regular: 220, medium: 350, large: 500, isspicy: FALSE, isveg: TRUE"
+},
+"link": [
+{
+"rel": "self",
+"type": "application/atom+xml",
+"href": "https://spreadsheets.google.com/feeds/list/1mj5kpIlpcfuZ-J_iUxnCmXtj5p5TdSZBk3UzArizr6s/od6/public/values/cpzh4"
+}
+],
+"gsx$name": {
+"$t": "Mushroom Manjurian"
+},
+"gsx$category": {
+"$t": "Indian Gravy Pizza"
+},
+"gsx$description": {
+"$t": "(Spicy mix, Onion, Capsicum, Onion, Mushroom)"
+},
+"gsx$pricetype": {
+"$t": "variable"
+},
+"gsx$price": {
+"$t": ""
+},
+"gsx$regular": {
+"$t": "220"
+},
+"gsx$medium": {
+"$t": "350"
+},
+"gsx$large": {
+"$t": "500"
+},
+"gsx$isspicy": {
+"$t": "FALSE"
+},
+"gsx$isveg": {
+"$t": "TRUE"
+}
+},
+{
+"id": {
+"$t": "https://spreadsheets.google.com/feeds/list/1mj5kpIlpcfuZ-J_iUxnCmXtj5p5TdSZBk3UzArizr6s/od6/public/values/cre1l"
+},
+"updated": {
+"$t": "2018-09-17T15:53:44.708Z"
+},
+"category": [
+{
+"scheme": "http://schemas.google.com/spreadsheets/2006",
+"term": "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+"title": {
+"type": "text",
+"$t": "Chilli Paneer"
+},
+"content": {
+"type": "text",
+"$t": "category: Indian Gravy Pizza, description: (Capsicum, onion, paneer, green chilli, corn flour & masalas), pricetype: variable, regular: 220, medium: 350, large: 500, isspicy: TRUE, isveg: TRUE"
+},
+"link": [
+{
+"rel": "self",
+"type": "application/atom+xml",
+"href": "https://spreadsheets.google.com/feeds/list/1mj5kpIlpcfuZ-J_iUxnCmXtj5p5TdSZBk3UzArizr6s/od6/public/values/cre1l"
+}
+],
+"gsx$name": {
+"$t": "Chilli Paneer"
+},
+"gsx$category": {
+"$t": "Indian Gravy Pizza"
+},
+"gsx$description": {
+"$t": "(Capsicum, onion, paneer, green chilli, corn flour & masalas)"
+},
+"gsx$pricetype": {
+"$t": "variable"
+},
+"gsx$price": {
+"$t": ""
+},
+"gsx$regular": {
+"$t": "220"
+},
+"gsx$medium": {
+"$t": "350"
+},
+"gsx$large": {
+"$t": "500"
+},
+"gsx$isspicy": {
+"$t": "TRUE"
+},
+"gsx$isveg": {
+"$t": "TRUE"
+}
+},
+{
+"id": {
+"$t": "https://spreadsheets.google.com/feeds/list/1mj5kpIlpcfuZ-J_iUxnCmXtj5p5TdSZBk3UzArizr6s/od6/public/values/chk2m"
+},
+"updated": {
+"$t": "2018-09-17T15:53:44.708Z"
+},
+"category": [
+{
+"scheme": "http://schemas.google.com/spreadsheets/2006",
+"term": "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+"title": {
+"type": "text",
+"$t": "Mushroom Pepper Fry"
+},
+"content": {
+"type": "text",
+"$t": "category: Indian Gravy Pizza, description: (Pizza topped with mushroom, fried with masalas and pepper), pricetype: variable, regular: 220, medium: 350, large: 500, isspicy: FALSE, isveg: TRUE"
+},
+"link": [
+{
+"rel": "self",
+"type": "application/atom+xml",
+"href": "https://spreadsheets.google.com/feeds/list/1mj5kpIlpcfuZ-J_iUxnCmXtj5p5TdSZBk3UzArizr6s/od6/public/values/chk2m"
+}
+],
+"gsx$name": {
+"$t": "Mushroom Pepper Fry"
+},
+"gsx$category": {
+"$t": "Indian Gravy Pizza"
+},
+"gsx$description": {
+"$t": "(Pizza topped with mushroom, fried with masalas and pepper)"
+},
+"gsx$pricetype": {
+"$t": "variable"
+},
+"gsx$price": {
+"$t": ""
+},
+"gsx$regular": {
+"$t": "220"
+},
+"gsx$medium": {
+"$t": "350"
+},
+"gsx$large": {
+"$t": "500"
+},
+"gsx$isspicy": {
+"$t": "FALSE"
+},
+"gsx$isveg": {
+"$t": "TRUE"
+}
+},
+{
+"id": {
+"$t": "https://spreadsheets.google.com/feeds/list/1mj5kpIlpcfuZ-J_iUxnCmXtj5p5TdSZBk3UzArizr6s/od6/public/values/ciyn3"
+},
+"updated": {
+"$t": "2018-09-17T15:53:44.708Z"
+},
+"category": [
+{
+"scheme": "http://schemas.google.com/spreadsheets/2006",
+"term": "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+"title": {
+"type": "text",
+"$t": "Butter Chicken"
+},
+"content": {
+"type": "text",
+"$t": "category: Indian Gravy Pizza, description: (Butter chicken gravy flavored pizza), pricetype: variable, regular: 220, medium: 350, large: 500, isspicy: FALSE, isveg: FALSE"
+},
+"link": [
+{
+"rel": "self",
+"type": "application/atom+xml",
+"href": "https://spreadsheets.google.com/feeds/list/1mj5kpIlpcfuZ-J_iUxnCmXtj5p5TdSZBk3UzArizr6s/od6/public/values/ciyn3"
+}
+],
+"gsx$name": {
+"$t": "Butter Chicken"
+},
+"gsx$category": {
+"$t": "Indian Gravy Pizza"
+},
+"gsx$description": {
+"$t": "(Butter chicken gravy flavored pizza)"
+},
+"gsx$pricetype": {
+"$t": "variable"
+},
+"gsx$price": {
+"$t": ""
+},
+"gsx$regular": {
+"$t": "220"
+},
+"gsx$medium": {
+"$t": "350"
+},
+"gsx$large": {
+"$t": "500"
+},
+"gsx$isspicy": {
+"$t": "FALSE"
+},
+"gsx$isveg": {
+"$t": "FALSE"
+}
+},
+{
+"id": {
+"$t": "https://spreadsheets.google.com/feeds/list/1mj5kpIlpcfuZ-J_iUxnCmXtj5p5TdSZBk3UzArizr6s/od6/public/values/ckd7g"
+},
+"updated": {
+"$t": "2018-09-17T15:53:44.708Z"
+},
+"category": [
+{
+"scheme": "http://schemas.google.com/spreadsheets/2006",
+"term": "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+"title": {
+"type": "text",
+"$t": "Row: 7"
+},
+"content": {
+"type": "text",
+"$t": "regular: 220, medium: 350, large: 500, isspicy: FALSE, isveg: FALSE"
+},
+"link": [
+{
+"rel": "self",
+"type": "application/atom+xml",
+"href": "https://spreadsheets.google.com/feeds/list/1mj5kpIlpcfuZ-J_iUxnCmXtj5p5TdSZBk3UzArizr6s/od6/public/values/ckd7g"
+}
+],
+"gsx$name": {
+"$t": ""
+},
+"gsx$category": {
+"$t": ""
+},
+"gsx$description": {
+"$t": ""
+},
+"gsx$pricetype": {
+"$t": ""
+},
+"gsx$price": {
+"$t": ""
+},
+"gsx$regular": {
+"$t": "220"
+},
+"gsx$medium": {
+"$t": "350"
+},
+"gsx$large": {
+"$t": "500"
+},
+"gsx$isspicy": {
+"$t": "FALSE"
+},
+"gsx$isveg": {
+"$t": "FALSE"
+}
+},
+{
+"id": {
+"$t": "https://spreadsheets.google.com/feeds/list/1mj5kpIlpcfuZ-J_iUxnCmXtj5p5TdSZBk3UzArizr6s/od6/public/values/clrrx"
+},
+"updated": {
+"$t": "2018-09-17T15:53:44.708Z"
+},
+"category": [
+{
+"scheme": "http://schemas.google.com/spreadsheets/2006",
+"term": "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+"title": {
+"type": "text",
+"$t": "Row: 8"
+},
+"content": {
+"type": "text",
+"$t": "regular: 220, medium: 350, large: 500, isspicy: TRUE, isveg: FALSE"
+},
+"link": [
+{
+"rel": "self",
+"type": "application/atom+xml",
+"href": "https://spreadsheets.google.com/feeds/list/1mj5kpIlpcfuZ-J_iUxnCmXtj5p5TdSZBk3UzArizr6s/od6/public/values/clrrx"
+}
+],
+"gsx$name": {
+"$t": ""
+},
+"gsx$category": {
+"$t": ""
+},
+"gsx$description": {
+"$t": ""
+},
+"gsx$pricetype": {
+"$t": ""
+},
+"gsx$price": {
+"$t": ""
+},
+"gsx$regular": {
+"$t": "220"
+},
+"gsx$medium": {
+"$t": "350"
+},
+"gsx$large": {
+"$t": "500"
+},
+"gsx$isspicy": {
+"$t": "TRUE"
+},
+"gsx$isveg": {
+"$t": "FALSE"
+}
+},
+{
+"id": {
+"$t": "https://spreadsheets.google.com/feeds/list/1mj5kpIlpcfuZ-J_iUxnCmXtj5p5TdSZBk3UzArizr6s/od6/public/values/cyevm"
+},
+"updated": {
+"$t": "2018-09-17T15:53:44.708Z"
+},
+"category": [
+{
+"scheme": "http://schemas.google.com/spreadsheets/2006",
+"term": "http://schemas.google.com/spreadsheets/2006#list"
+}
+],
+"title": {
+"type": "text",
+"$t": "Row: 9"
+},
+"content": {
+"type": "text",
+"$t": "regular: 220, medium: 350, large: 500, isspicy: TRUE, isveg: FALSE"
+},
+"link": [
+{
+"rel": "self",
+"type": "application/atom+xml",
+"href": "https://spreadsheets.google.com/feeds/list/1mj5kpIlpcfuZ-J_iUxnCmXtj5p5TdSZBk3UzArizr6s/od6/public/values/cyevm"
+}
+],
+"gsx$name": {
+"$t": ""
+},
+"gsx$category": {
+"$t": ""
+},
+"gsx$description": {
+"$t": ""
+},
+"gsx$pricetype": {
+"$t": ""
+},
+"gsx$price": {
+"$t": ""
+},
+"gsx$regular": {
+"$t": "220"
+},
+"gsx$medium": {
+"$t": "350"
+},
+"gsx$large": {
+"$t": "500"
+},
+"gsx$isspicy": {
+"$t": "TRUE"
+},
+"gsx$isveg": {
+"$t": "FALSE"
+}
+}
+]
+}
+}
