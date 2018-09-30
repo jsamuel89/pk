@@ -1,132 +1,1263 @@
 {
-  "data" : [
-    {
-      "id": "1",
-      "attributes": {
-        "name": "Paneer Butter Pizza",
-        "category": "Indian Gravy Pizza",
-        "description": "(Paneer butter gravy flavoured pizza)",
-        "pricetype": "variable",
-        "price": "",
-        "regular": "220",
-        "medium": "350",
-        "large": "500",
-        "isspicy": "FALSE",
-        "isveg": "TRUE"
-      },
-      "type": "mi"
-    },
-    {
-      "id": "2",
-      "attributes": {
-        "name": "Mushroom Manjurian",
-        "category": "Indian Gravy Pizza",
-        "description": "(Spicy mix, Onion, Capsicum, Onion, Mushroom)",
-        "pricetype": "variable",
-        "price": "",
-        "regular": "220",
-        "medium": "350",
-        "large": "500",
-        "isspicy": "FALSE",
-        "isveg": "TRUE"
-      },
-      "type": "mi"
-    },
-    {
-      "id": "3",
-      "attributes": {
-        "name": "Chilli Paneer",
-        "category": "Indian Gravy Pizza",
-        "description": "(Capsicum, onion, paneer, green chilli, corn flour & masalas)",
-        "pricetype": "variable",
-        "price": "",
-        "regular": "220",
-        "medium": "350",
-        "large": "500",
-        "isspicy": "TRUE",
-        "isveg": "TRUE"
-      },
-      "type": "mi"
-    },
-    {
-      "id": "4",
-      "attributes": {
-        "name": "Mushroom Pepper Fry",
-        "category": "Indian Gravy Pizza",
-        "description": "(Pizza topped with mushroom, fried with masalas and pepper)",
-        "pricetype": "variable",
-        "price": "",
-        "regular": "220",
-        "medium": "350",
-        "large": "500",
-        "isspicy": "FALSE",
-        "isveg": "TRUE"
-      },
-      "type": "mi"
-    },
-    {
-      "id": "5",
-      "attributes": {
-        "name": "Butter Chicken",
-        "category": "Indian Gravy Pizza",
-        "description": "(Butter chicken gravy flavored pizza)",
-        "pricetype": "variable",
-        "price": "",
-        "regular": "220",
-        "medium": "350",
-        "large": "500",
-        "isspicy": "FALSE",
-        "isveg": "FALSE"
-      },
-      "type": "mi"
-    },
-    {
-      "id": "6",
-      "attributes": {
-        "name": "",
-        "category": "",
-        "description": "",
-        "pricetype": "",
-        "price": "",
-        "regular": "220",
-        "medium": "350",
-        "large": "500",
-        "isspicy": "FALSE",
-        "isveg": "FALSE"
-      },
-      "type": "mi"
-    },
-    {
-      "id": "7",
-      "attributes": {
-        "name": "",
-        "category": "",
-        "description": "",
-        "pricetype": "",
-        "price": "",
-        "regular": "220",
-        "medium": "350",
-        "large": "500",
-        "isspicy": "TRUE",
-        "isveg": "FALSE"
-      },
-      "type": "mi"
-    },
-    {
-      "id": "8",
-      "attributes": {
-        "name": "",
-        "category": "",
-        "description": "",
-        "pricetype": "",
-        "price": "",
-        "regular": "220",
-        "medium": "350",
-        "large": "500",
-        "isspicy": "TRUE",
-        "isveg": "FALSE"
-      },
-      "type": "mi"
+  "data": [{
+    "id": "5ae3cfd0-ce76-a8f5-1183-22862b1fff92",
+    "type": "mi",
+    "attributes": {
+      "name": "Paneer Butter Pizza",
+      "category": "Indian Gravy Pizza",
+      "description": "(Paneer butter gravy flavoured pizza)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 220,
+      "medium": 350,
+      "large": 500,
+      "isspicy": false,
+      "isveg": true
     }
-  ]
+  }, {
+    "id": "b29d96bf-3aa8-6b28-e618-c9b3560a39bc",
+    "type": "mi",
+    "attributes": {
+      "name": "Mushroom Manjurian",
+      "category": "Indian Gravy Pizza",
+      "description": "(Spicy mix, Onion, Capsicum, Onion, Mushroom)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 220,
+      "medium": 350,
+      "large": 500,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "871e6f23-6291-1648-dba9-a970250da972",
+    "type": "mi",
+    "attributes": {
+      "name": "Chilli Paneer",
+      "category": "Indian Gravy Pizza",
+      "description": "(Capsicum, onion, paneer, green chilli, corn flour & masalas)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 220,
+      "medium": 350,
+      "large": 500,
+      "isspicy": true,
+      "isveg": true
+    }
+  }, {
+    "id": "4ba3e3e3-e695-a162-46da-fc6345d9659b",
+    "type": "mi",
+    "attributes": {
+      "name": "Mushroom Pepper Fry",
+      "category": "Indian Gravy Pizza",
+      "description": "(Pizza topped with mushroom, fried with masalas and pepper)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 220,
+      "medium": 350,
+      "large": 500,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "ab0e6050-236a-f2de-b7c5-a438dea5df30",
+    "type": "mi",
+    "attributes": {
+      "name": "Butter Chicken",
+      "category": "Indian Gravy Pizza",
+      "description": "(Butter chicken gravy flavored pizza)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 230,
+      "medium": 360,
+      "large": 510,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "d5877ff6-fb16-d090-8cc1-d8efa701a345",
+    "type": "mi",
+    "attributes": {
+      "name": "Chicken Manjurian",
+      "category": "Indian Gravy Pizza",
+      "description": "(Spicy mix, Onion, Capsicum, Onion, Chicken)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 230,
+      "medium": 360,
+      "large": 510,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "efcd6921-7c74-d5d8-4c1b-9b8ef48a1ac4",
+    "type": "mi",
+    "attributes": {
+      "name": "Chilli Chicken",
+      "category": "Indian Gravy Pizza",
+      "description": "(Capsicum, onion, chicken, green chilli, corn flour & masalas)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 230,
+      "medium": 360,
+      "large": 510,
+      "isspicy": true,
+      "isveg": false
+    }
+  }, {
+    "id": "d6ea620c-dd0c-a46d-48bd-35180586391f",
+    "type": "mi",
+    "attributes": {
+      "name": "Chettinad Chicken Pepper Fry",
+      "category": "Indian Gravy Pizza",
+      "description": "(Chicken, chilli, garlic, onion, spices and masalas)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 230,
+      "medium": 360,
+      "large": 510,
+      "isspicy": true,
+      "isveg": false
+    }
+  }, {
+    "id": "d515f592-0e57-83fe-9590-7bb17b1725f0",
+    "type": "mi",
+    "attributes": {
+      "name": "Farm fresh",
+      "category": "Vegetable Pizzas",
+      "description": "(Onion, tomato, capsicum)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 140,
+      "medium": 220,
+      "large": 320,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "effdbd33-a3e2-2dc2-dc74-a7c030be4fb4",
+    "type": "mi",
+    "attributes": {
+      "name": "Spicy Veg",
+      "category": "Vegetable Pizzas",
+      "description": "(Jalapeno, onion, red chilli)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 140,
+      "medium": 220,
+      "large": 320,
+      "isspicy": true,
+      "isveg": true
+    }
+  }, {
+    "id": "1cac4812-e6e1-562e-b7fe-ff58577380e1",
+    "type": "mi",
+    "attributes": {
+      "name": "Yellow fellow",
+      "category": "Vegetable Pizzas",
+      "description": "(Corn, Baby corn, pineapple)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 160,
+      "medium": 270,
+      "large": 400,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "c46cdaa3-7a24-0e10-d79f-ae8392528a16",
+    "type": "mi",
+    "attributes": {
+      "name": "Double Cheese",
+      "category": "Vegetable Pizzas",
+      "description": "(cheese, cheese, cheese)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 160,
+      "medium": 270,
+      "large": 400,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "17fdae2e-03a3-b079-3de2-8923dd95b88a",
+    "type": "mi",
+    "attributes": {
+      "name": "Veg galaxy",
+      "category": "Vegetable Pizzas",
+      "description": "(Capsicum, onion, tomato, paneer, olives)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 160,
+      "medium": 270,
+      "large": 400,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "24a69fdf-4ee2-c66f-d19d-5ae30b7cea25",
+    "type": "mi",
+    "attributes": {
+      "name": "You will cry",
+      "category": "Vegetable Pizzas",
+      "description": "(Jalapeno, spicy paneer, chilli, red paprika)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 160,
+      "medium": 270,
+      "large": 400,
+      "isspicy": true,
+      "isveg": true
+    }
+  }, {
+    "id": "c1939ca8-405b-002a-f5f5-bb69d211aecf",
+    "type": "mi",
+    "attributes": {
+      "name": "Fruits & veg",
+      "category": "Vegetable Pizzas",
+      "description": "(Pineapple, banana, vegetables)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 160,
+      "medium": 270,
+      "large": 430,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "0e7d61f1-b890-50bd-e08e-ca251f5c6ae9",
+    "type": "mi",
+    "attributes": {
+      "name": "Mushy",
+      "category": "Vegetable Pizzas",
+      "description": "(Mushroom, cashew, baby corn)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 170,
+      "medium": 300,
+      "large": 470,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "d8fee05e-9ae7-5d8c-ea79-3ce09be5dc41",
+    "type": "mi",
+    "attributes": {
+      "name": "Peppy paneer",
+      "category": "Vegetable Pizzas",
+      "description": "(Paneer, corn, pepper, milk cream, olives)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 190,
+      "medium": 320,
+      "large": 490,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "e0fc40e0-6f9a-7c2a-4abf-83723a65be1d",
+    "type": "mi",
+    "attributes": {
+      "name": "Veg grand",
+      "category": "Vegetable Pizzas",
+      "description": "(Vegetables, paneer, mushroom, baby corn, corn, pineapple, olives)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 210,
+      "medium": 340,
+      "large": 490,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "cc773a2f-8d51-8958-9d13-a2c383069577",
+    "type": "mi",
+    "attributes": {
+      "name": "Spicy treat",
+      "category": "Vegetable Pizzas",
+      "description": "(Vegetables, spicy paneer, mushroom, jalapeno, chilli, cashew, corn)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 210,
+      "medium": 340,
+      "large": 490,
+      "isspicy": true,
+      "isveg": true
+    }
+  }, {
+    "id": "5d08b9d3-9a03-6141-72f6-18b4aa090476",
+    "type": "mi",
+    "attributes": {
+      "name": "Chatpata corn",
+      "category": "Vegetable Pizzas",
+      "description": "(Crispy cried corn)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 150,
+      "medium": 260,
+      "large": 390,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "57d65e2b-6cfb-bea3-d7f4-c6cdedb88c88",
+    "type": "mi",
+    "attributes": {
+      "name": "Paneer Tikka",
+      "category": "Vegetable Pizzas",
+      "description": "(Paneer tikka cubes grilled and jalapeno)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 190,
+      "medium": 320,
+      "large": 490,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "853fd66d-e59d-8063-5ec6-1b6cfccadf8e",
+    "type": "mi",
+    "attributes": {
+      "name": "Simply Chicken",
+      "category": "Chicken pizzas",
+      "description": "(Spicy chicken, onion)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 140,
+      "medium": 220,
+      "large": 320,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "95823fba-c9c5-ccd9-f78b-79af1102d0ac",
+    "type": "mi",
+    "attributes": {
+      "name": "Simple BBQ",
+      "category": "Chicken pizzas",
+      "description": "(BBQ chicken, onion)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 140,
+      "medium": 220,
+      "large": 320,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "c2f46e43-93be-a57b-01c8-b5dd2637d3c2",
+    "type": "mi",
+    "attributes": {
+      "name": "Pine",
+      "category": "Chicken pizzas",
+      "description": "(Spicy chicken, pineapple)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 140,
+      "medium": 230,
+      "large": 360,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "39783cf0-33f2-6b7c-9d43-bd9638276eb1",
+    "type": "mi",
+    "attributes": {
+      "name": "Spicy chicken",
+      "category": "Chicken pizzas",
+      "description": "(Spicy chicken, jalapeno, red paprika)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 150,
+      "medium": 230,
+      "large": 340,
+      "isspicy": true,
+      "isveg": false
+    }
+  }, {
+    "id": "94365e0b-779e-4fe4-0358-0b137eb2e804",
+    "type": "mi",
+    "attributes": {
+      "name": "Spicy BBQ",
+      "category": "Chicken pizzas",
+      "description": "(BBQ chicken, chilli, red paprika)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 150,
+      "medium": 230,
+      "large": 340,
+      "isspicy": true,
+      "isveg": false
+    }
+  }, {
+    "id": "71b3a406-0125-22f1-ba47-cf9405c1c230",
+    "type": "mi",
+    "attributes": {
+      "name": "India in italy",
+      "category": "Chicken pizzas",
+      "description": "(Chicken, onion, garlic, curry leaves, mustard seeds)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 160,
+      "medium": 230,
+      "large": 410,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "10e8cbae-ad13-95e6-457f-a3ff788b21d5",
+    "type": "mi",
+    "attributes": {
+      "name": "Chicashew",
+      "category": "Chicken pizzas",
+      "description": "(Spicy chicken, BBQ chicken, cashews)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 170,
+      "medium": 270,
+      "large": 420,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "9cc50c7b-c2ae-34fb-de71-e483d24d9196",
+    "type": "mi",
+    "attributes": {
+      "name": "Chicken feast",
+      "category": "Chicken pizzas",
+      "description": "(BBQ chicken, pepperoni, onion, olives, capsicum, garlic)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 170,
+      "medium": 270,
+      "large": 420,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "1b08084c-d365-b18e-6f99-10938545e23b",
+    "type": "mi",
+    "attributes": {
+      "name": "Sausage",
+      "category": "Chicken pizzas",
+      "description": "(Chicken Sausage, onion, garlic, chilli)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 180,
+      "medium": 300,
+      "large": 450,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "e60b8f02-db89-2557-a0be-a6f3a81c989f",
+    "type": "mi",
+    "attributes": {
+      "name": "Chicorn",
+      "category": "Chicken pizzas",
+      "description": "(BBQ chicken, corn, onion, black olives, baby corn)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 200,
+      "medium": 300,
+      "large": 450,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "75a189ec-ee80-7f11-cd7b-b3949c7ab857",
+    "type": "mi",
+    "attributes": {
+      "name": "Vegiken",
+      "category": "Chicken pizzas",
+      "description": "(Spicy chicken, BBQ chicken, onion, capsicum, tomato, jalapeno)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 200,
+      "medium": 300,
+      "large": 450,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "0ff0d62a-8e5d-f852-6a25-6700a7f54c11",
+    "type": "mi",
+    "attributes": {
+      "name": "PK's pepperoni",
+      "category": "Chicken pizzas",
+      "description": "(Chicken pepperoni slices all over the pizza)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 200,
+      "medium": 300,
+      "large": 450,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "0b7fd003-6901-6e09-3a0b-2e7eae174bbc",
+    "type": "mi",
+    "attributes": {
+      "name": "Chicken burst",
+      "category": "Chicken pizzas",
+      "description": "(Spicy chicken, BBQ chicken, tomato, corn, cashew)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 200,
+      "medium": 300,
+      "large": 450,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "1c23c7a0-67df-cec4-3152-93672c204331",
+    "type": "mi",
+    "attributes": {
+      "name": "Chicken delight",
+      "category": "Chicken pizzas",
+      "description": "(Spicy chicken, BBQ chicken, garlic, onion, baby corn)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 200,
+      "medium": 300,
+      "large": 450,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "d2d1419d-7f3e-25fd-e6ca-bfa3df472a36",
+    "type": "mi",
+    "attributes": {
+      "name": "Chicken tikka",
+      "category": "Chicken pizzas",
+      "description": "(Chicken tikka with seasoning)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 220,
+      "medium": 340,
+      "large": 500,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "47492715-d663-06a0-4c57-5c297cadc807",
+    "type": "mi",
+    "attributes": {
+      "name": "Chicken bonanza",
+      "category": "Chicken pizzas",
+      "description": "(Spicy chicken, BBQ chicken, chicken tikka, pepperoni, sausage)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 240,
+      "medium": 370,
+      "large": 550,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "b339e950-9554-da0b-e2c7-683c92fefc5c",
+    "type": "mi",
+    "attributes": {
+      "name": "Overloaded",
+      "category": "Chicken pizzas",
+      "description": "(3 types of chicken, paneer, mushroom, jalapeno, chilli sauce)",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 240,
+      "medium": 370,
+      "large": 550,
+      "isspicy": true,
+      "isveg": false
+    }
+  }, {
+    "id": "60f63296-e901-a0f9-9e60-bc5d6b27377b",
+    "type": "mi",
+    "attributes": {
+      "name": "Extra Cheese",
+      "category": "Add-Ons",
+      "description": "",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 30,
+      "medium": 40,
+      "large": 70,
+      "isspicy": "",
+      "isveg": ""
+    }
+  }, {
+    "id": "ff053bed-b02d-da71-a920-427791aa5831",
+    "type": "mi",
+    "attributes": {
+      "name": "Extra toppings Veg",
+      "category": "Add-Ons",
+      "description": "",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 20,
+      "medium": 40,
+      "large": 70,
+      "isspicy": "",
+      "isveg": ""
+    }
+  }, {
+    "id": "6df9cd9c-8e39-fc43-f1fb-30e2b2d8705f",
+    "type": "mi",
+    "attributes": {
+      "name": "Extra toppings NonVeg",
+      "category": "Add-Ons",
+      "description": "",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 30,
+      "medium": 50,
+      "large": 80,
+      "isspicy": "",
+      "isveg": ""
+    }
+  }, {
+    "id": "96b7125f-a448-786b-c66e-396d24906b6f",
+    "type": "mi",
+    "attributes": {
+      "name": "Extra Mayonnaise",
+      "category": "Add-Ons",
+      "description": "",
+      "pricetype": "",
+      "price": 30,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": "",
+      "isveg": ""
+    }
+  }, {
+    "id": "92411c0e-2095-1fbf-b8c5-d187f4b18885",
+    "type": "mi",
+    "attributes": {
+      "name": "Crispy Veggie",
+      "category": "Burger Pizza",
+      "description": "",
+      "pricetype": "",
+      "price": 130,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "d66c51af-a585-9706-b4aa-054d9a5f3e7f",
+    "type": "mi",
+    "attributes": {
+      "name": "Chicken'ing",
+      "category": "Burger Pizza",
+      "description": "",
+      "pricetype": "",
+      "price": 150,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "55960b84-9bd6-490c-42d4-2ae62a20d534",
+    "type": "mi",
+    "attributes": {
+      "name": "Crunchy Nacho - Veg",
+      "category": "Burger Pizza",
+      "description": "",
+      "pricetype": "",
+      "price": 150,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "7cc673af-e675-34f1-04c6-7e782bd6c9cb",
+    "type": "mi",
+    "attributes": {
+      "name": "Crunchy Nacho - NonVeg",
+      "category": "Burger Pizza",
+      "description": "",
+      "pricetype": "",
+      "price": 170,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "f4bbcdcd-c113-bb84-4c86-016d6e3b79fe",
+    "type": "mi",
+    "attributes": {
+      "name": "Veg burger",
+      "category": "Burger",
+      "description": "",
+      "pricetype": "",
+      "price": 90,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "61787a7b-c5f3-aa8a-7750-f78af1b2020a",
+    "type": "mi",
+    "attributes": {
+      "name": "Veg mexican burger",
+      "category": "Burger",
+      "description": "",
+      "pricetype": "",
+      "price": 100,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "53bc2593-8c5a-fba1-87ec-2cfa68eabc20",
+    "type": "mi",
+    "attributes": {
+      "name": "Veg tandoori burger",
+      "category": "Burger",
+      "description": "",
+      "pricetype": "",
+      "price": 110,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "a6261ad9-732c-cabc-9047-7a0ea12f6dd8",
+    "type": "mi",
+    "attributes": {
+      "name": "Chicken burger",
+      "category": "Burger",
+      "description": "",
+      "pricetype": "",
+      "price": 110,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "1e5d2d7f-5ad7-7794-b9be-37092b154999",
+    "type": "mi",
+    "attributes": {
+      "name": "Chicken mexican burger",
+      "category": "Burger",
+      "description": "",
+      "pricetype": "",
+      "price": 120,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "85b4186b-2fa1-2a5a-eb0c-e12ad7523c62",
+    "type": "mi",
+    "attributes": {
+      "name": "Chicken tandoori burger",
+      "category": "Burger",
+      "description": "",
+      "pricetype": "",
+      "price": 130,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "a7f18a01-0c50-8e10-3fb7-a35b1954b4a8",
+    "type": "mi",
+    "attributes": {
+      "name": "Veg Wrap",
+      "category": "Wrap",
+      "description": "",
+      "pricetype": "",
+      "price": 80,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "c4f76ce2-4133-0ef8-bf75-3535dbdea4b3",
+    "type": "mi",
+    "attributes": {
+      "name": "Paneer salsa wrap",
+      "category": "Wrap",
+      "description": "",
+      "pricetype": "",
+      "price": 100,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "ce80d59e-87b8-43ea-8f95-edd865dc25ab",
+    "type": "mi",
+    "attributes": {
+      "name": "Veg tandoori wrap",
+      "category": "Wrap",
+      "description": "",
+      "pricetype": "",
+      "price": 100,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "20759482-6803-d341-0f79-acbc659424f9",
+    "type": "mi",
+    "attributes": {
+      "name": "Chicken wrap",
+      "category": "Wrap",
+      "description": "",
+      "pricetype": "",
+      "price": 90,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "d327d446-93f6-5ec9-f906-0bfde8f58dd3",
+    "type": "mi",
+    "attributes": {
+      "name": "Chicken mexican wrap",
+      "category": "Wrap",
+      "description": "",
+      "pricetype": "",
+      "price": 100,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "24c9f050-1949-41f8-a8ae-e7fb51d8c6c7",
+    "type": "mi",
+    "attributes": {
+      "name": "Chicken tandoori wrap",
+      "category": "Wrap",
+      "description": "",
+      "pricetype": "",
+      "price": 100,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "57b3641c-6a1b-74c5-2584-46c8a5ad07f2",
+    "type": "mi",
+    "attributes": {
+      "name": "Veg sandwich",
+      "category": "Sandwich",
+      "description": "",
+      "pricetype": "",
+      "price": 70,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "3c143354-2632-dedf-337a-a76587b2f82b",
+    "type": "mi",
+    "attributes": {
+      "name": "Veg mayo sandwich",
+      "category": "Sandwich",
+      "description": "",
+      "pricetype": "",
+      "price": 80,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "4e0cda2c-4edd-18ce-ab0f-c3e4213846bd",
+    "type": "mi",
+    "attributes": {
+      "name": "Spicy veg sandwich",
+      "category": "Sandwich",
+      "description": "",
+      "pricetype": "",
+      "price": 80,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": true,
+      "isveg": true
+    }
+  }, {
+    "id": "056e6ccd-fc8e-b4aa-3a9e-ad6b4c755b70",
+    "type": "mi",
+    "attributes": {
+      "name": "Spicy paneer sandwich",
+      "category": "Sandwich",
+      "description": "",
+      "pricetype": "",
+      "price": 90,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": true,
+      "isveg": true
+    }
+  }, {
+    "id": "55dbf66c-208d-cb4f-8f19-a1a583d20051",
+    "type": "mi",
+    "attributes": {
+      "name": "Exotic veg sandwich",
+      "category": "Sandwich",
+      "description": "",
+      "pricetype": "",
+      "price": 90,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "cf21fa4b-12f9-aeba-d29f-68a99d8a48d2",
+    "type": "mi",
+    "attributes": {
+      "name": "Cheese sandwich",
+      "category": "Sandwich",
+      "description": "",
+      "pricetype": "",
+      "price": 80,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "a076a9a8-574b-4ba6-b2a9-bc230e5ff5ab",
+    "type": "mi",
+    "attributes": {
+      "name": "Chicken Sandwich",
+      "category": "Sandwich",
+      "description": "",
+      "pricetype": "",
+      "price": 80,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "fb2c739f-679e-8652-e037-96ff9531f95a",
+    "type": "mi",
+    "attributes": {
+      "name": "Chicken mayo sandwich",
+      "category": "Sandwich",
+      "description": "",
+      "pricetype": "",
+      "price": 90,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "4b0fd6c8-a3ef-27b7-3965-43567b381fe8",
+    "type": "mi",
+    "attributes": {
+      "name": "Spicy chicken sandwich",
+      "category": "Sandwich",
+      "description": "",
+      "pricetype": "",
+      "price": 90,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": true,
+      "isveg": false
+    }
+  }, {
+    "id": "e7d87596-868b-9e84-4f2b-41f5074bb43d",
+    "type": "mi",
+    "attributes": {
+      "name": "Mac & Cheese",
+      "category": "Pasta",
+      "description": "",
+      "pricetype": "",
+      "price": 80,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "f8f53fc4-5c8f-03be-668a-f40a08bd9693",
+    "type": "mi",
+    "attributes": {
+      "name": "Pasta & Olives",
+      "category": "Pasta",
+      "description": "",
+      "pricetype": "",
+      "price": 60,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "56ac8548-eb0f-41bd-b3f9-bd1b174295d8",
+    "type": "mi",
+    "attributes": {
+      "name": "Veg macatoon pasta",
+      "category": "Pasta",
+      "description": "",
+      "pricetype": "",
+      "price": 80,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "c7619e00-0eca-40f1-1b2a-9091ae2bb389",
+    "type": "mi",
+    "attributes": {
+      "name": "White sauce veg pasta",
+      "category": "Pasta",
+      "description": "",
+      "pricetype": "",
+      "price": 100,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "315a4546-fe03-46c3-fc9d-f2d6377f2033",
+    "type": "mi",
+    "attributes": {
+      "name": "Chicken macatoon pasta",
+      "category": "Pasta",
+      "description": "",
+      "pricetype": "",
+      "price": 90,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "d48e75f8-c6d2-fc95-c1a7-e4c2d6da20b8",
+    "type": "mi",
+    "attributes": {
+      "name": "Anti pasto pasta",
+      "category": "Pasta",
+      "description": "",
+      "pricetype": "",
+      "price": 90,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "d9e93773-e112-705f-f24c-38df416b7135",
+    "type": "mi",
+    "attributes": {
+      "name": "White sauce chicken pasta",
+      "category": "Pasta",
+      "description": "",
+      "pricetype": "",
+      "price": 120,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "41c0ef1d-d5fa-0b19-d4c8-6ac35359f9a8",
+    "type": "mi",
+    "attributes": {
+      "name": "French fries",
+      "category": "Starters",
+      "description": "",
+      "pricetype": "variable",
+      "price": null,
+      "regular": 60,
+      "medium": null,
+      "large": 100,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "1bfd0c02-ea8d-7647-2489-40ccba4853a4",
+    "type": "mi",
+    "attributes": {
+      "name": "Paneer bread roll",
+      "category": "Starters",
+      "description": "",
+      "pricetype": "",
+      "price": 30,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "553b2fd8-4175-e11c-1ca7-9a8c7a4bf423",
+    "type": "mi",
+    "attributes": {
+      "name": "Crispy corn",
+      "category": "Starters",
+      "description": "",
+      "pricetype": "",
+      "price": 80,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "89425ffe-33f9-1a62-8c45-33c1c7909b32",
+    "type": "mi",
+    "attributes": {
+      "name": "Baby corn fries",
+      "category": "Starters",
+      "description": "",
+      "pricetype": "",
+      "price": 80,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "8c46a241-e079-0eec-c2c1-57a3e54a19dd",
+    "type": "mi",
+    "attributes": {
+      "name": "Spongie chicken",
+      "category": "Starters",
+      "description": "",
+      "pricetype": "",
+      "price": 80,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "863348b8-510e-a32e-f898-650b7eed8e3c",
+    "type": "mi",
+    "attributes": {
+      "name": "Chicken ladoos",
+      "category": "Starters",
+      "description": "",
+      "pricetype": "",
+      "price": 80,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "e01c48b7-36a5-78f2-9f02-47ae7fb616e5",
+    "type": "mi",
+    "attributes": {
+      "name": "Bread Omlette",
+      "category": "Starters",
+      "description": "",
+      "pricetype": "",
+      "price": 40,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "89f08724-d7ab-6470-1f66-612f31b9a5a5",
+    "type": "mi",
+    "attributes": {
+      "name": "Bread cheese omlette",
+      "category": "Starters",
+      "description": "",
+      "pricetype": "",
+      "price": 60,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": false
+    }
+  }, {
+    "id": "6558032b-6370-3a7c-5f3a-0532a6b77983",
+    "type": "mi",
+    "attributes": {
+      "name": "Blue mojito",
+      "category": "Mojito",
+      "description": "",
+      "pricetype": "",
+      "price": 90,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": true
+    }
+  }, {
+    "id": "51793e66-df96-ac41-d597-9c220d76eacd",
+    "type": "mi",
+    "attributes": {
+      "name": "Mint mojito",
+      "category": "Mojito",
+      "description": "",
+      "pricetype": "",
+      "price": 90,
+      "regular": null,
+      "medium": null,
+      "large": null,
+      "isspicy": false,
+      "isveg": true
+    }
+  }]
 }

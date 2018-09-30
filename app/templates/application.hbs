@@ -31,52 +31,54 @@
 <div class="row">
     
 
-  {{#each model.menuitems.bycategory as |category|}}
+{{#each model.menuitems.bycategory as |category|}}
+ 
+{{!#masonry-grid items=model.menuitems.bycategory columnWidth=420  gutter=10 horizontalOrder='true' as |category|}}
+  <div class="cards-container col l4 m6 s12">
+    <div class="card">
+      <div class="card-content black-text">
+        <span class="card-title center">{{category.value}}</span>
 
-    <div class="col l4 m6 s12">
-      <div class="card">
-        <div class="card-content black-text">
-          <span class="card-title center">{{category.value}}</span>
-
-          {{#each category.items as |item|}}
-            <div class="row">
-              <div class="col {{if (eq item.pricetype 'variable') 's6' 's10'}}">
-                <h6 class="{{item.diettype}}">
-                  {{item.name}}
-                  {{#if item.isspicy}}
-                    <span class="icon-chili red-text" aria-hidden="true"></span>  
-                  {{/if}}
-                </h6>
-                <span class="description grey-text">
-                  {{item.description}}
-                </span>
-              </div>
-
-              {{#if (eq item.pricetype 'variable')}}
-                <div class="col s2">
-                  <h6>{{item.regular}}</h6>
-                </div>
-                <div class="col s2">
-                  <h6>{{item.medium}}</h6>
-                </div>
-                <div class="col s2">
-                  <h6>{{item.large}}</h6>
-                </div>
-              {{else}}
-                <div class="col s2">
-                  <h6>{{item.price}}</h6>
-                </div>
-              {{/if}}
+        {{#each category.items as |item|}}
+          <div class="row">
+            <div class="col {{if (eq item.pricetype 'variable') 's6' 's10'}}">
+              <h6 class="{{item.diettype}}">
+                {{item.name}}
+                {{#if item.isspicy}}
+                  <span class="icon-chili red-text" aria-hidden="true"></span>  
+                {{/if}}
+              </h6>
+              <span class="description grey-text">
+                {{item.description}}
+              </span>
             </div>
-            
-          {{/each}}
+
+            {{#if (eq item.pricetype 'variable')}}
+              <div class="col s2">
+                <h6>{{item.regular}}</h6>
+              </div>
+              <div class="col s2">
+                <h6>{{item.medium}}</h6>
+              </div>
+              <div class="col s2">
+                <h6>{{item.large}}</h6>
+              </div>
+            {{else}}
+              <div class="col s2">
+                <h6>{{item.price}}</h6>
+              </div>
+            {{/if}}
+          </div>
+          
+        {{/each}}
 
 
-        </div>
+      </div>
 
-      </div>      
-    </div>
-  {{/each}}
-
+    </div>      
+  </div>
+{{!/masonry-grid}}
+{{/each}}
+    
 
 </div>
